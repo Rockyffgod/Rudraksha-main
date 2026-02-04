@@ -1,0 +1,9 @@
+{
+  "name": "Rudraksha-main",
+  "description": "The Ultimate Nepali Companion: A multi-featured web app for culture, health, student productivity, and safety.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
